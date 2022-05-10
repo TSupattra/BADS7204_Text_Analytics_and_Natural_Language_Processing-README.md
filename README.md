@@ -6,7 +6,7 @@ Text Analytics and Natural Language Processing - generate_song
 
 [![](https://img.shields.io/badge/-bs4-blue)](#) [![](https://img.shields.io/badge/-requests-blue)](#) 
 
-2. Clean data : [2_Clean_data.py ](./2_Clean_data.py /)
+2. Clean data : [Clean_data.py](./2_Clean_data.py/)
 
 
 
