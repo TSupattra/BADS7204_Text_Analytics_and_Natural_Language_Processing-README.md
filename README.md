@@ -7,7 +7,8 @@ Text Analytics and Natural Language Processing - generate_song
 [![](https://img.shields.io/badge/-bs4-blue)](#) [![](https://img.shields.io/badge/-requests-blue)](#) 
 
 2. Clean data : [Clean_data.py](./2_Clean_data.py/)
-[![](https://img.shields.io/badge/-pythainlp-blue)](#) [![](https://img.shields.io/badge/-sent_tokenize, word_tokenize-blue)](#)
+3. 
+[![](https://img.shields.io/badge/-pythainlp-blue)](#) [![](https://img.shields.io/badge/-sent--tokenize-blue)](#)  [![](https://img.shields.io/badge/-word--tokenize-blue)](#)
 
 3. train model : [train_model.py](./3_train_model.py/)
 
@@ -15,3 +16,4 @@ Text Analytics and Natural Language Processing - generate_song
 
 
 
+word_tokenize
